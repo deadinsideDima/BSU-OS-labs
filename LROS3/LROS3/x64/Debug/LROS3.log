@@ -1,0 +1,3 @@
+﻿  LROS3.cpp
+D:\visual\LROS3\LROS3\LROS3.cpp(42,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LROS3.vcxproj -> D:\visual\LROS3\x64\Debug\LROS3.exe

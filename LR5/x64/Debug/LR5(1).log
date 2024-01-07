@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LR5(1).vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  eeeee.cpp
+D:\visual\LR5(1)\eeeee.cpp(29,31): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+D:\visual\LR5(1)\eeeee.cpp(52,48): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+D:\visual\LR5(1)\eeeee.cpp(52,48): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+D:\visual\LR5(1)\eeeee.cpp(52,65): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+D:\visual\LR5(1)\eeeee.cpp(52,65): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+  LR5(1).vcxproj -> D:\visual\x64\Debug\labnumber5osi.exe

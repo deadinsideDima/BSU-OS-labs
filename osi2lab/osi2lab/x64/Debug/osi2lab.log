@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  Source1.cpp
+D:\visual\osi2lab\osi2lab\Source1.cpp(54,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  osi2lab.vcxproj -> D:\visual\osi2lab\x64\Debug\Debug\osi2lab.exe
